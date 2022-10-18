@@ -67,3 +67,10 @@ class Fraction(private var numerator: Int, private var denominator: Int){
         return ct.cut()
     }
 }
+
+
+
+
+
+
+
